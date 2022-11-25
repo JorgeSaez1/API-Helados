@@ -1,0 +1,116 @@
+{
+	"info": {
+		"_postman_id": "899eabbe-70d9-4bf6-aa2c-34b1125c70c2",
+		"name": "API Helados",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24048078"
+	},
+	"item": [
+		{
+			"name": "Crear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n        \"id\": \"30\",\r\n        \"marca\": \"Fruna\",\r\n        \"tipo\": \"cassata\",\r\n        \"sabor\": \"frutilla\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/helados",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"helados"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mostrar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/helados",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"helados"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n        \"id\": \"1\",\r\n        \"marca\": \"Fruna\",\r\n        \"tipo\": \"paleta\",\r\n        \"sabor\": \"frambuesa\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/helados/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"helados",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:3000/api/helados/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"helados",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

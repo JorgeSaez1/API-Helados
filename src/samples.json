@@ -1,0 +1,180 @@
+[
+    {
+        "id": "1",
+        "marca": "bresler",
+        "tipo": "cassata",
+        "sabor": "frutilla"
+    },
+    {
+        "id": "2",
+        "marca": "bresler",
+        "tipo": "cassata",
+        "sabor": "vainilla"
+    },
+    {
+        "id": "3",
+        "marca": "bresler",
+        "tipo": "cassata",
+        "sabor": "chocolate"
+
+    },
+    {
+        "id": "4",
+        "marca": "bresler",
+        "tipo": "cassata",
+        "sabor": "chirimoya"
+    },
+    {
+        "id": "5",
+        "marca": "bresler",
+        "tipo": "cassata",
+        "sabor": "naranja"
+    },
+    {
+        "id": "6",
+        "marca": "savory",
+        "tipo": "cassata",
+        "sabor": "kiwi"
+    },
+    {
+        "id":"7",
+        "marca": "savory",
+        "tipo": "cassata",
+        "sabor": "granada"
+
+    },
+    {
+        "id": "8",
+        "marca": "savory",
+        "tipo": "cassata",
+        "sabor": "pomelo"
+    },
+    {
+        "id": "9",
+        "marca": "savory",
+        "tipo": "cassata",
+        "sabor": "menta"
+    },
+    {
+        "id": "10",
+        "marca": "savory",
+        "tipo": "cassata",
+        "sabor": "fresa"
+    },
+    {
+        "id": "11",
+        "marca": "fruna",
+        "tipo": "cassata",
+        "sabor": "mora"
+    },
+    {
+        "id": "12",
+        "marca":"fruna",
+        "tipo": "cassata",
+        "sabor": "sandia"
+    },
+    {
+        "id": "13",	
+        "marca":"fruna",
+        "tipo": "cassata",
+        "sabor": "chocolate suizo"
+    },
+    {
+        "id": "14",
+        "marca":"fruna",
+        "tipo": "cassata",
+        "sabor": "pasas al ron"
+    },
+    {
+        "id": "15",
+        "marca":"fruna",
+        "tipo": "cassata",
+        "sabor": "tres leche"
+    },
+    {
+        "id": "16",
+        "marca":"bresler",
+        "tipo": "paleta",
+        "sabor": "frutilla"
+    },
+    {
+        "id": "17",
+        "marca":"bresler",
+        "tipo": "paleta",
+        "sabor": "vainilla"
+    },
+    {
+        "id": "18",
+        "marca":"bresler",
+        "tipo": "paleta",
+        "sabor": "chocolate"
+    },
+    {
+        "id": "19",
+        "marca":"bresler",
+        "tipo": "paleta",
+        "sabor": "chirimoya"
+    },
+    {
+        "id": "20",
+        "marca":"bresler",
+        "tipo": "paleta",
+        "sabor": "platano"
+    },
+    {
+        "id": "21",
+        "marca":"savory",
+        "tipo": "paleta",
+        "sabor": "chocolate"
+    },
+    {
+        "id": "22",
+        "marca":"savory",
+        "tipo": "paleta",
+        "sabor": "granada"
+    },
+    {
+        "id": "23",
+        "marca":"savory",
+        "tipo":"paleta",
+        "sabor": "pomelo"
+    },
+    {
+        "id": "24",
+        "marca":"savory",
+        "tipo": "paleta",
+        "sabor": "menta"
+    },
+    {
+        "id": "25",
+        "marca":"savory",
+        "tipo": "paleta",
+        "sabor":"naranja"
+    },
+    {
+        "id": "26",
+        "marca":"fruna",
+        "tipo": "paleta",
+        "sabor":"chocolate"
+    },
+    {
+        "id": "27",
+        "marca":"fruna",
+        "tipo": "paleta",
+        "sabor":"vainilla"
+    },
+    {
+        "id": "28",
+        "marca":"fruna",
+        "tipo": "paleta",
+        "sabor":"naranja"
+    },
+    {
+        "id": "29",
+        "marca":"fruna",
+        "tipo":"paleta",
+        "sabor":"pera"
+
+    }
+
+]   
